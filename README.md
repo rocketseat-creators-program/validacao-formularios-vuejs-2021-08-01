@@ -1,24 +1,17 @@
-# validacao-formularios-vuejs-2021-08-01
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-## Project setup
-```
-yarn install
-```
+# Validação de Formulários em Vue.js com Vee-Validate
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+No mercado de trabalho é comum nos depararmos com aplicações envolvendo formulários que precisem passar por algum tipo de validação de modo a fornecer maior segurança ao sistema e uma melhor experiência para a pessoa que o está preenchendo.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Uma das maiores bibliotecas de validação em Vue.js, a Vee-Validate, se destaca pela sua simplicidade e poder de entregar um sistema de validação preciso e altamente customizável, para que possamos criar formulários robustos e com um alto controle de validações.
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Expert
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+| [<img src="https://avatars.githubusercontent.com/u/13542718?v=4" width="75px;"/>](https://github.com/rafaelmaiach) |
+| :-: |
+|[Rafael Maia (MaiattoDev)](https://github.com/rafaelmaiach)|
+
+## Siga:
+- LinkedIn: [Rafael Maia Chieregatto](https://linkedin.com/in/rafaelmaiach)
+- Ìnstagram: [MaiattoDev](https://instagram.com/maiattodev)
