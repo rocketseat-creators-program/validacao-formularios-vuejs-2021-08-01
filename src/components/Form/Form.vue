@@ -116,13 +116,8 @@ export default {
 		};
 	},
 	methods: {
-		async updateFile(value, validate) {
-			const x = await validate();
-			console.log(x);
-		},
 		clearForm(reset) {
 			this.email = '';
-			this.file = null;
 			this.firstName = '';
 			this.lastName = '';
 			this.password = '';
@@ -133,7 +128,6 @@ export default {
 		onSubmit() {
 			console.log({
 				email: this.email,
-				file: this.file,
 				firstName: this.firstName,
 				lastName: this.lastName,
 				password: this.password,
