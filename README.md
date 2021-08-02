@@ -14,4 +14,4 @@ Uma das maiores bibliotecas de validação em Vue.js, a Vee-Validate, se destaca
 
 ## Siga:
 - LinkedIn: [Rafael Maia Chieregatto](https://linkedin.com/in/rafaelmaiach)
-- Ìnstagram: [MaiattoDev](https://instagram.com/maiattodev)
+- Instagram: [MaiattoDev](https://instagram.com/maiattodev)
